@@ -1,0 +1,4 @@
+.Rhistory
+.RData
+*.rda
+.Rproj.user
