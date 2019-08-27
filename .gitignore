@@ -2,3 +2,5 @@
 *.RData
 *.rda
 .Rproj.user
+Manuscript_cache/
+Manuscript_files/
